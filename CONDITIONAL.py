@@ -1,9 +1,9 @@
 score = 85
 if score >= 90:
-    print("A")
+    print("Grade : A")
 elif score >= 80:
-    print("B")
+    print("Grade : B")
 elif score >= 70:
-    print("C")
+    print("Grade : C")
 else:
-    print("F")
+    print("False")
